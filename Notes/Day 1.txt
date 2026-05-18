@@ -1,0 +1,20 @@
+ Que 1) Make a sum of number by using operator concept.
+        input as 65
+        output as 11
+
+ Que 2) Swap a two number using by a third variable.
+         input as a = 10 , b = 20
+         output as a = 20, b = 10
+
+ Que 3) Swap a two number without using by a third variable.
+         input as a = 10 , b = 20
+         output as a = 20, b = 10
+
+ Que 4) Round of the number to its next multiplication of 10.
+          input as 77, and 36
+          output as 80 , and 40
+
+ Que 5) Sum of two number without using + operator.
+        intput as int a = 10, b = 20
+        output is 30
+  
